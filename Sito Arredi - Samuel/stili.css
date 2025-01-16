@@ -1,0 +1,73 @@
+#titolo {
+    height:80px;
+    font: bold 350% "Times New Roman";
+    color:rgb(253, 253, 253);
+    background-color: rgb(161, 228, 124);
+    text-align: center;
+
+}
+#sottotitolo {
+    height:80px;
+    font:bold 200% "Times New Roman";
+    color:rgb(211, 249, 202);
+    background-color: rgb(111, 198, 111);
+    text-align: center;
+}
+
+#navbar {
+    border: 3px solid darkcyan;
+    position:absolute;
+    width: 20%;
+    right: 10px;
+    top: 200px;
+    background-color: rgb(80, 221, 174);
+    font: bold 150%  "Times New Roman" ;
+}
+
+#navbar a:link, #navbar a:visited {
+    color:rgb(0, 120, 64);
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    color:rgb(0, 120, 64)   
+}
+
+#contenuto {
+    color:rgb(127, 229, 144);
+    background-color: rgb(236, 243, 236);
+    margin-top: 0px;
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-bottom: 0px;
+    text-align: center;
+    font: bold "Times New Roman";
+    
+}
+
+.notizia {
+    font: 180% "Times New Roman";
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+#footer {
+    height: 40px;
+    font: bold 180% "Times New Roman";
+    text-align: center;
+    color: white;
+    background-color:rgb(161, 228, 124) ;
+}
+body{
+    background-image: url(https://c8.alamy.com/compit/r8m8g3/sfondo-senza-giunture-castagno-foglie-verdi-con-disegno-di-foglie-e-sagome-vettore-r8m8g3.jpg);
+}
+
+#immagine {
+    border: 3px;
+    position:absolute;
+    left: 10px;
+    top: 200px;
+
+}
+
